@@ -1,0 +1,4 @@
+#Mon Aug 26 09:56:25 EEST 2024
+base.0=D\:\\sarraf mobile\\alquds_sarraf\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

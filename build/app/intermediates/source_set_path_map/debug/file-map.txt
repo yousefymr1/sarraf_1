@@ -1,0 +1,25 @@
+com.example.alquds_sarraf.app-jetified-window-java-1.0.0-beta04-0 C:\Users\User\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.alquds_sarraf.app-cardview-1.0.0-1 C:\Users\User\.gradle\caches\transforms-3\1f7b83d5c525c90d815c2843766b14c4\transformed\cardview-1.0.0\res
+com.example.alquds_sarraf.app-recyclerview-1.1.0-2 C:\Users\User\.gradle\caches\transforms-3\3058a90125b8ca39a70986ed2fa932dc\transformed\recyclerview-1.1.0\res
+com.example.alquds_sarraf.app-fragment-1.2.5-3 C:\Users\User\.gradle\caches\transforms-3\333b31f1f9e07ebcc305545c09945cb4\transformed\fragment-1.2.5\res
+com.example.alquds_sarraf.app-core-1.6.0-4 C:\Users\User\.gradle\caches\transforms-3\4ca28c4a71705f8a687c69dda140a277\transformed\core-1.6.0\res
+com.example.alquds_sarraf.app-jetified-appcompat-resources-1.2.0-5 C:\Users\User\.gradle\caches\transforms-3\5ebaeb5d364ce2c623be4262cc3b2f87\transformed\jetified-appcompat-resources-1.2.0\res
+com.example.alquds_sarraf.app-drawerlayout-1.1.1-6 C:\Users\User\.gradle\caches\transforms-3\834184c5d51b1fc76592fd43f53cc930\transformed\drawerlayout-1.1.1\res
+com.example.alquds_sarraf.app-jetified-annotation-experimental-1.1.0-7 C:\Users\User\.gradle\caches\transforms-3\8965c941cf4bee4d72541b965c7c9d39\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.alquds_sarraf.app-material-1.6.1-8 C:\Users\User\.gradle\caches\transforms-3\8a6da1b244a7fd7bab291391e5627063\transformed\material-1.6.1\res
+com.example.alquds_sarraf.app-transition-1.2.0-9 C:\Users\User\.gradle\caches\transforms-3\94e8469fc26c39023dc99dc98d6883c7\transformed\transition-1.2.0\res
+com.example.alquds_sarraf.app-constraintlayout-2.0.1-10 C:\Users\User\.gradle\caches\transforms-3\abbe8d43d794a560648121c18ec97f40\transformed\constraintlayout-2.0.1\res
+com.example.alquds_sarraf.app-jetified-viewpager2-1.0.0-11 C:\Users\User\.gradle\caches\transforms-3\b9c65cb24581f41ed660fa85d05d8494\transformed\jetified-viewpager2-1.0.0\res
+com.example.alquds_sarraf.app-jetified-window-1.0.0-beta04-12 C:\Users\User\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\res
+com.example.alquds_sarraf.app-appcompat-1.2.0-13 C:\Users\User\.gradle\caches\transforms-3\e937b68345cad7d61818d312b6b4c7ca\transformed\appcompat-1.2.0\res
+com.example.alquds_sarraf.app-coordinatorlayout-1.1.0-14 C:\Users\User\.gradle\caches\transforms-3\fe6b5add7ec73032a23eba92468f91f4\transformed\coordinatorlayout-1.1.0\res
+com.example.alquds_sarraf.app-debug-15 D:\sarraf mobile\alquds_sarraf\android\app\src\debug\res
+com.example.alquds_sarraf.app-main-16 D:\sarraf mobile\alquds_sarraf\android\app\src\main\res
+com.example.alquds_sarraf.app-pngs-17 D:\sarraf mobile\alquds_sarraf\build\app\generated\res\pngs\debug
+com.example.alquds_sarraf.app-resValues-18 D:\sarraf mobile\alquds_sarraf\build\app\generated\res\resValues\debug
+com.example.alquds_sarraf.app-rs-19 D:\sarraf mobile\alquds_sarraf\build\app\generated\res\rs\debug
+com.example.alquds_sarraf.app-mergeDebugResources-20 D:\sarraf mobile\alquds_sarraf\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.alquds_sarraf.app-mergeDebugResources-21 D:\sarraf mobile\alquds_sarraf\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.alquds_sarraf.app-merged_res-22 D:\sarraf mobile\alquds_sarraf\build\app\intermediates\merged_res\debug
+com.example.alquds_sarraf.app-packaged_res-23 D:\sarraf mobile\alquds_sarraf\build\device_info_plus\intermediates\packaged_res\debug
+com.example.alquds_sarraf.app-packaged_res-24 D:\sarraf mobile\alquds_sarraf\build\shared_preferences_android\intermediates\packaged_res\debug

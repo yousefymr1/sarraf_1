@@ -1,0 +1,1 @@
+ D:\\sarraf\ mobile\\alquds_sarraf\\.dart_tool\\flutter_build\\7549b12794e3c695f60f47d30c2ec7a9\\native_assets.yaml: 
