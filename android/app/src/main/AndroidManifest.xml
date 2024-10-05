@@ -2,7 +2,7 @@
     package="com.example.alquds_sarraf">
        <uses-permission android:name="android.permission.INTERNET"/>
    <application
-        android:label="ALQUDS"
+        android:label="SARRAF"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

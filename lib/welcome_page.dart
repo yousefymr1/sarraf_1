@@ -47,7 +47,7 @@ class _WelcomeScreenState extends State<WelcomeScreen>
   Future<void> _fetchData() async {
     var dvid = await _getId();
     var apiUrl =
-        'https://qadrs.com/sarraf/get_user.php?allow=yes&device_id=$dvid';
+        'https://yaghm.com/jerusalemaccounting/sarraf/get_user.php?allow=yes&device_id=$dvid';
     print(apiUrl);
     HttpClient client = HttpClient();
     client.autoUncompress = true;

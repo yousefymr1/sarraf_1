@@ -93,7 +93,7 @@ List _loadedPhotos2 = [];
      SharedPreferences prefs = await SharedPreferences.getInstance();
 String? company_id = prefs.getString("company_id");
     final apiUrl =
-        'https://qadrs.com/sarraf/report_sanadat.php?allow=yes&a_code=$code';
+        'https://yaghm.com/jerusalemaccounting/sarraf/report_sanadat.php?allow=yes&a_code=$code';
     print(apiUrl);
     HttpClient client = HttpClient();
     client.autoUncompress = true;

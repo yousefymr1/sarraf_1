@@ -31,10 +31,10 @@ String? company_id = prefs.getString("company_id");
 if(cur_price1 == "")
 cur_price1 = "0";
   print(
-      'https://qadrs.com/sarraf/add_sarf.php?m_name=$cName1&m_id=$cId1&cost=$cost1&notes=$notes1&q_date=$aDate1&a_code=$code&cur_price=$cur_price1&currency=$currency');
+      'https://yaghm.com/jerusalemaccounting/sarraf/add_sarf.php?m_name=$cName1&m_id=$cId1&cost=$cost1&notes=$notes1&q_date=$aDate1&a_code=$code&cur_price=$cur_price1&currency=$currency');
   final response = await http.post(
     Uri.parse(
-        'https://qadrs.com/sarraf/add_sarf.php?m_name=$cName1&m_id=$cId1&cost=$cost1&notes=$notes1&q_date=$aDate1&a_code=$code&cur_price=$cur_price1&currency=$currency'),
+        'https://yaghm.com/jerusalemaccounting/sarraf/add_sarf.php?m_name=$cName1&m_id=$cId1&cost=$cost1&notes=$notes1&q_date=$aDate1&a_code=$code&cur_price=$cur_price1&currency=$currency'),
     headers: <String, String>{
       'Content-Type': 'application/json; charset=UTF-8',
     },
@@ -184,7 +184,7 @@ _loadedPhotos = [];
 _loadedPhotos2 = [];
 
     var apiUrl =
-        'https://qadrs.com/sarraf/get_custs.php?allow=yes';
+        'https://yaghm.com/jerusalemaccounting/sarraf/get_custs.php?allow=yes';
     print(apiUrl);
     HttpClient client = HttpClient();
     client.autoUncompress = true;

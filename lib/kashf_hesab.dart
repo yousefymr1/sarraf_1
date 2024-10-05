@@ -62,7 +62,7 @@ List _loadedPhotos = [];
       SharedPreferences prefs = await SharedPreferences.getInstance();
 String? company_id = prefs.getString("company_id");
     var apiUrl =
-        'https://qadrs.com/sarraf/get_kashf.php?allow=yes&m_id=$m_id2';
+        'https://yaghm.com/jerusalemaccounting/sarraf/get_kashf.php?allow=yes&m_id=$m_id2';
     print(apiUrl);
     HttpClient client = HttpClient();
     client.autoUncompress = true;
@@ -102,7 +102,7 @@ String? company_id = prefs.getString("company_id");
           SharedPreferences prefs = await SharedPreferences.getInstance();
 
     var apiUrl =
-        'https://qadrs.com/sarraf/get_custs.php?allow=yes';
+        'https://yaghm.com/jerusalemaccounting/sarraf/get_custs.php?allow=yes';
     print(apiUrl);
     HttpClient client = HttpClient();
     client.autoUncompress = true;

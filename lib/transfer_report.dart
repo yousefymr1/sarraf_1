@@ -90,7 +90,7 @@ List _loadedPhotos2 = [];
      SharedPreferences prefs = await SharedPreferences.getInstance();
 String? company_id = prefs.getString("company_id");
     final apiUrl =
-        'https://qadrs.com/sarraf/get_balancemove.php?allow=yes';
+        'https://yaghm.com/jerusalemaccounting/sarraf/get_balancemove.php?allow=yes';
     print(apiUrl);
     HttpClient client = HttpClient();
     client.autoUncompress = true;

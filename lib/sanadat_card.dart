@@ -31,10 +31,10 @@ class _SanadCardState extends State<SanadCard> {
  
 Future deletesanad(String id,String type) async {
   print(
-      "https://qadrs.com/sarraf/delete_sanad.php?id=$id&type=$type");
+      "https://yaghm.com/jerusalemaccounting/sarraf/delete_sanad.php?id=$id&type=$type");
   final response = await http.get(
     Uri.parse(
-        'https://qadrs.com/sarraf/delete_sanad.php?id=$id&type=$type'),
+        'https://yaghm.com/jerusalemaccounting/sarraf/delete_sanad.php?id=$id&type=$type'),
     headers: <String, String>{
       'Content-Type': 'application/json; charset=UTF-8',
     },

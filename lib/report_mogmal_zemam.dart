@@ -32,7 +32,7 @@ class _ZemamReportState extends State<ZemamReport> {
     SharedPreferences prefs = await SharedPreferences.getInstance();
  
     var apiUrl =
-        'https://qadrs.com/sarraf/get_mogmal_zemam.php?allow=yes';
+        'https://yaghm.com/jerusalemaccounting/sarraf/get_mogmal_zemam.php?allow=yes';
     print(apiUrl);
     HttpClient client = HttpClient();
     client.autoUncompress = true;
